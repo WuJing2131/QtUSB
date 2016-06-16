@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Resources/images/zju_ico16x16.ico</file>
+        <file>Resources/images/zju_ico32x32.ico</file>
+        <file>Resources/images/zjupng100x100.png</file>
+        <file>Resources/images/connect.png</file>
+        <file>Resources/images/disconnect.png</file>
+        <file>Resources/images/usb_128_con.png</file>
+        <file>Resources/images/usb_128dis.png</file>
+        <file>Resources/images/receive.png</file>
+        <file>Resources/images/send.png</file>
+    </qresource>
+</RCC>
